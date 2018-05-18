@@ -1,0 +1,29 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.aff-bg-pink {
+  background: linear-gradient(55.93deg, #DE535A 0%, #FE666E 100%);
+}
+
+.aff-white {
+  color: #fff;
+}
+
+.aff-bg-blue {
+  background-color: #1495E8;
+}
+
+.opacity-1 {
+  opacity: 0.2;
+}
+
+.opacity-5 {
+  opacity: 0.5;
+}
+
+#Chat {
+  width: 140px !important;
+}
+
+/*# sourceMappingURL=css/aff-output.css.map */
